@@ -1,0 +1,38 @@
+body{
+    background-image: url(nasa.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    margin-left: 50mm;
+    margin-right: 50mm;
+ 
+    
+ }
+ h1 {
+    text-align: center;
+    color: white;
+    font-family: arial black;
+    font-size: xx-large;
+ }
+ table,td{
+    table-layout: auto;
+    font-family: Arial black;
+    border-collapse: collapse;
+    border: 1px;
+    padding: 20px;
+    color: whitesmoke;
+ 
+  
+ }
+ th{
+    height: 50px;
+    color: blue;
+    
+ } 
+ th, td {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  

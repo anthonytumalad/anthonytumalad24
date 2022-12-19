@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
+table, td, tr{
+    padding: 20px;
+    border-style: none;
+}
+
+
+body{
+    margin: auto;
+    margin-left: 50mm;
+    margin-right: 50mm;
+    background-image: url(ceo.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+td{
+    font-family: Arial black;
+    border-collapse: collapse;
+    color: whitesmoke;
+ }
+ 

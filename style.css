@@ -1,0 +1,25 @@
+
+ul{
+    text-align: left;
+}
+body{
+    background-image: url(kobe.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+    font-family: arial black;
+    
+}
+
+div {
+    border: 2px solid black;
+    text-align: center;
+    margin: auto;
+    width: 500px;
+}
+
+
+
+    
+
